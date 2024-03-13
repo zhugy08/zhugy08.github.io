@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on I&#39;m NVH</title>
+    <link>https://zhugy08.github.io/imnvh/categories/</link>
+    <description>Recent content in Categories on I&#39;m NVH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zhugy08.github.io/imnvh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>信号分析基础</title>
+      <link>https://zhugy08.github.io/imnvh/categories/%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Sat, 09 Mar 2024 12:57:55 +0800</pubDate>
+      <guid>https://zhugy08.github.io/imnvh/categories/%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

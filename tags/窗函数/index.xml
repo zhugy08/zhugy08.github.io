@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>窗函数 on I&#39;m NVH</title>
+    <link>https://zhugy08.github.io/imnvh/tags/%E7%AA%97%E5%87%BD%E6%95%B0/</link>
+    <description>Recent content in 窗函数 on I&#39;m NVH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zhugy08.github.io/imnvh/tags/%E7%AA%97%E5%87%BD%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>窗函数的作用</title>
+      <link>https://zhugy08.github.io/imnvh/posts/win-functions-affect/</link>
+      <pubDate>Sat, 09 Mar 2024 12:44:55 +0800</pubDate>
+      <guid>https://zhugy08.github.io/imnvh/posts/win-functions-affect/</guid>
+      <description>窗函数通过对信号进行加权，以减少信号的旁瓣泄露和平滑信号的边缘，从而提高信号的频谱分辨率。本文将针对窗函数是如何实现上述效果的，窗函数的各项指标是如何影响最终结果，并且如何修正这些影响进行介绍。</description>
+    </item>
+    <item>
+      <title>常用窗函数</title>
+      <link>https://zhugy08.github.io/imnvh/posts/win-functions-samples/</link>
+      <pubDate>Thu, 07 Mar 2024 22:03:55 +0800</pubDate>
+      <guid>https://zhugy08.github.io/imnvh/posts/win-functions-samples/</guid>
+      <description>窗函数通过对信号进行加权，以减少信号的旁瓣泄露和平滑信号的边缘，从而提高信号的频谱分辨率。窗函数的选择取决于所需应用的特性，如矩形窗、汉宁窗、汉明窗和布莱克曼窗等，每种窗都有其特定的频率响应和旁瓣衰减特性。本文将介绍几种常见窗函数的计算公式和时域频域曲线，并给出其基本的评价指标。</description>
+    </item>
+  </channel>
+</rss>
