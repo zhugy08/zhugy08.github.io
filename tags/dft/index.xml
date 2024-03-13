@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DFT on I&#39;m NVH</title>
-    <link>https://zhugy08.github.io/imnvh/tags/dft/</link>
+    <link>https://zhugy08.github.io/tags/dft/</link>
     <description>Recent content in DFT on I&#39;m NVH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zhugy08.github.io/imnvh/tags/dft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhugy08.github.io/tags/dft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FFT和DFT</title>
-      <link>https://zhugy08.github.io/imnvh/posts/fft-and-dft/</link>
+      <link>https://zhugy08.github.io/posts/fft-and-dft/</link>
       <pubDate>Sat, 09 Mar 2024 12:57:55 +0800</pubDate>
-      <guid>https://zhugy08.github.io/imnvh/posts/fft-and-dft/</guid>
+      <guid>https://zhugy08.github.io/posts/fft-and-dft/</guid>
       <description>本文介绍了FFT和DFT计算的原理、公式及其作用。</description>
     </item>
   </channel>

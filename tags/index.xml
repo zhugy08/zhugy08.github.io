@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on I&#39;m NVH</title>
-    <link>https://zhugy08.github.io/imnvh/tags/</link>
+    <link>https://zhugy08.github.io/tags/</link>
     <description>Recent content in Tags on I&#39;m NVH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zhugy08.github.io/imnvh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhugy08.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DFT</title>
-      <link>https://zhugy08.github.io/imnvh/tags/dft/</link>
+      <link>https://zhugy08.github.io/tags/dft/</link>
       <pubDate>Sat, 09 Mar 2024 12:57:55 +0800</pubDate>
-      <guid>https://zhugy08.github.io/imnvh/tags/dft/</guid>
+      <guid>https://zhugy08.github.io/tags/dft/</guid>
       <description></description>
     </item>
     <item>
       <title>FFT</title>
-      <link>https://zhugy08.github.io/imnvh/tags/fft/</link>
+      <link>https://zhugy08.github.io/tags/fft/</link>
       <pubDate>Sat, 09 Mar 2024 12:57:55 +0800</pubDate>
-      <guid>https://zhugy08.github.io/imnvh/tags/fft/</guid>
+      <guid>https://zhugy08.github.io/tags/fft/</guid>
       <description></description>
     </item>
     <item>
       <title>窗函数</title>
-      <link>https://zhugy08.github.io/imnvh/tags/%E7%AA%97%E5%87%BD%E6%95%B0/</link>
+      <link>https://zhugy08.github.io/tags/%E7%AA%97%E5%87%BD%E6%95%B0/</link>
       <pubDate>Sat, 09 Mar 2024 12:44:55 +0800</pubDate>
-      <guid>https://zhugy08.github.io/imnvh/tags/%E7%AA%97%E5%87%BD%E6%95%B0/</guid>
+      <guid>https://zhugy08.github.io/tags/%E7%AA%97%E5%87%BD%E6%95%B0/</guid>
       <description></description>
     </item>
   </channel>
