@@ -55,14 +55,14 @@
       <link>https://zhugy08.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://zhugy08.github.io/about/</guid>
-      <description>鸣谢 制作本网站所用工具 Hugo gohugo-theme-ananke python3 jupyter notebook gimp 本网站中提供的算法和计算实例以notebook或python代码形式存储在：&#xA;Notebooks for I&amp;rsquo;m NVH&#xA;网站中使用的部分图片来源于Pexels Andrew Neel: https://www.pexels.com/zh-cn/photo/6633920/ Nicholas Fu: https://www.pexels.com/zh-cn/photo/9371778/ JÉSHOOTS: https://www.pexels.com/zh-cn/photo/4831/ Pixabay: https://www.pexels.com/zh-cn/photo/207483/ Digital Buggu: https://www.pexels.com/zh-cn/photo/7-43-368685/ Pixabay: https://www.pexels.com/zh-cn/photo/257904/ </description>
+      <description>鸣谢 制作本网站所用工具 Hugo gohugo-theme-ananke python3 jupyter notebook gimp 本网站中提供的算法和计算实例以notebook或python代码形式存储在： Notebooks for I&amp;rsquo;m NVH 网站中使用的部分图片来</description>
     </item>
     <item>
       <title>联系</title>
       <link>https://zhugy08.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://zhugy08.github.io/contact/</guid>
-      <description>您可以通过下面的方式联系到我：&#xA;电子邮件: imnvh@outlook.com</description>
+      <description>您可以通过下面的方式联系到我： 电子邮件: imnvh@outlook.com</description>
     </item>
   </channel>
 </rss>
