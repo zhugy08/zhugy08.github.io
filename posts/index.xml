@@ -6,8 +6,15 @@
     <description>Recent content in 文章 on I&#39;m NVH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhugy08.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>常用噪声</title>
+      <link>https://zhugy08.github.io/posts/noises/</link>
+      <pubDate>Fri, 29 Mar 2024 19:22:00 +0800</pubDate>
+      <guid>https://zhugy08.github.io/posts/noises/</guid>
+      <description>&lt;p&gt;噪声在信号处理和声学领域中扮演着重要角色，它不仅影响信号的质量，还在许多自然和人造系统中作为一种不可避免的干扰存在。常用的噪声类型主要包括白噪声和粉红噪声。白噪声是一种功率谱密度均匀的随机信号，其在所有频率上的能量相同，常见于电子设备的背景噪声中。粉红噪声则以其频率的倒数成正比的功率谱密度而著称，这种噪声在自然界中更为普遍，如地震活动和金融市场的波动。此外，还有红噪声和蓝噪声等，它们根据功率谱密度与频率的关系进行分类。了解这些噪声类型的特性和应用，对于设计信号处理算法、提高通信质量以及进行科学研究都至关重要。本文将对几种常见的噪声特点进行阐述，并基于python给出其生成方法。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>测量速度应该用ODB还是GPS？</title>
       <link>https://zhugy08.github.io/posts/obd-gps/</link>
