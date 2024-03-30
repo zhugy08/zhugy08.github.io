@@ -6,7 +6,7 @@
     <description>Recent content in 文章 on I&#39;m NVH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhugy08.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>常用噪声</title>
@@ -28,13 +28,6 @@
       <pubDate>Mon, 25 Mar 2024 19:39:00 +0800</pubDate>
       <guid>https://zhugy08.github.io/posts/nvh-evaluate/</guid>
       <description>&lt;p&gt;汽车噪声、振动和声振粗糙度（NVH）性能是衡量车辆乘坐舒适性的关键指标之一。NVH不仅影响驾驶和乘坐体验，而且在汽车设计和制造过程中，对车辆的整体性能和市场竞争力有着显著影响。本文旨在详细介绍NVH声学指标，包括频谱分析、声压、声功率、声强、声品质指标等。这些指标不仅涵盖了声音的物理特性，还包括了声音的主观感受。文章将探讨这些指标的定义、测量方法和在汽车NVH性能评估中的应用。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FFT和DFT</title>
-      <link>https://zhugy08.github.io/posts/fft-and-dft/</link>
-      <pubDate>Sat, 09 Mar 2024 12:57:55 +0800</pubDate>
-      <guid>https://zhugy08.github.io/posts/fft-and-dft/</guid>
-      <description>本文介绍了FFT和DFT计算的原理、公式及其作用。</description>
     </item>
     <item>
       <title>窗函数的作用</title>
