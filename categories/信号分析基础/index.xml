@@ -16,6 +16,20 @@
       <description>&lt;p&gt;噪声在信号处理和声学领域中扮演着重要角色，它不仅影响信号的质量，还在许多自然和人造系统中作为一种不可避免的干扰存在。常用的噪声类型主要包括白噪声和粉红噪声。白噪声是一种功率谱密度均匀的随机信号，其在所有频率上的能量相同，常见于电子设备的背景噪声中。粉红噪声则以其频率的倒数成正比的功率谱密度而著称，这种噪声在自然界中更为普遍，如地震活动和金融市场的波动。此外，还有红噪声和蓝噪声等，它们根据功率谱密度与频率的关系进行分类。了解这些噪声类型的特性和应用，对于设计信号处理算法、提高通信质量以及进行科学研究都至关重要。本文将对几种常见的噪声特点进行阐述，并基于python给出其生成方法。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>FFT和DFT</title>
+      <link>https://zhugy08.github.io/posts/fft-and-dft/</link>
+      <pubDate>Sat, 09 Mar 2024 12:57:55 +0800</pubDate>
+      <guid>https://zhugy08.github.io/posts/fft-and-dft/</guid>
+      <description>本文介绍了FFT和DFT计算的原理、公式及其作用。</description>
+    </item>
+    <item>
+      <title>傅立叶频谱计算</title>
+      <link>https://zhugy08.github.io/posts/fourier-spectrum/</link>
+      <pubDate>Sat, 09 Mar 2024 12:57:55 +0800</pubDate>
+      <guid>https://zhugy08.github.io/posts/fourier-spectrum/</guid>
+      <description>本文介绍使用DFT计算离散时间信号的傅里叶频谱的整个计算流程，包含了窗函数、DFT、频谱修正等内容。</description>
+    </item>
+    <item>
       <title>窗函数的作用</title>
       <link>https://zhugy08.github.io/posts/win-functions-affect/</link>
       <pubDate>Sat, 09 Mar 2024 12:44:55 +0800</pubDate>

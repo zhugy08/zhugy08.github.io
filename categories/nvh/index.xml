@@ -6,8 +6,15 @@
     <description>Recent content in NVH on I&#39;m NVH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhugy08.github.io/categories/nvh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>常见NVH测量项目及方法</title>
+      <link>https://zhugy08.github.io/posts/nvh-measurements/</link>
+      <pubDate>Mon, 01 Apr 2024 21:00:00 +0800</pubDate>
+      <guid>https://zhugy08.github.io/posts/nvh-measurements/</guid>
+      <description>本文将针对NVH常见的几种测量指标如发动机转速、速度、位置、噪声和振动水平等内容进行说明，并对其测量方法、测量工具及常用算法进行简要介绍。</description>
+    </item>
     <item>
       <title>测量速度应该用ODB还是GPS？</title>
       <link>https://zhugy08.github.io/posts/obd-gps/</link>

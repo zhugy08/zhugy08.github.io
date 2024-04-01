@@ -6,8 +6,15 @@
     <description>Recent content in Tags on I&#39;m NVH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhugy08.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NVH</title>
+      <link>https://zhugy08.github.io/tags/nvh/</link>
+      <pubDate>Mon, 01 Apr 2024 21:00:00 +0800</pubDate>
+      <guid>https://zhugy08.github.io/tags/nvh/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Noise</title>
       <link>https://zhugy08.github.io/tags/noise/</link>
@@ -16,10 +23,24 @@
       <description></description>
     </item>
     <item>
-      <title>NVH</title>
-      <link>https://zhugy08.github.io/tags/nvh/</link>
-      <pubDate>Tue, 26 Mar 2024 19:33:00 +0800</pubDate>
-      <guid>https://zhugy08.github.io/tags/nvh/</guid>
+      <title>DFT</title>
+      <link>https://zhugy08.github.io/tags/dft/</link>
+      <pubDate>Sat, 09 Mar 2024 12:57:55 +0800</pubDate>
+      <guid>https://zhugy08.github.io/tags/dft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FFT</title>
+      <link>https://zhugy08.github.io/tags/fft/</link>
+      <pubDate>Sat, 09 Mar 2024 12:57:55 +0800</pubDate>
+      <guid>https://zhugy08.github.io/tags/fft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>傅立叶频谱</title>
+      <link>https://zhugy08.github.io/tags/%E5%82%85%E7%AB%8B%E5%8F%B6%E9%A2%91%E8%B0%B1/</link>
+      <pubDate>Sat, 09 Mar 2024 12:57:55 +0800</pubDate>
+      <guid>https://zhugy08.github.io/tags/%E5%82%85%E7%AB%8B%E5%8F%B6%E9%A2%91%E8%B0%B1/</guid>
       <description></description>
     </item>
     <item>
